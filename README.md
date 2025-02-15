@@ -11,7 +11,7 @@ This is a Python package that enables tool calling for any model available throu
 
 Yes, you read that right. We're living in the age of AI and things move fast 🏎️💨
 
-Currently showcasing with DeepSeek-R1. Because why should we wait for official support when we can have tool calling TODAY?
+This repo showcases with DeepSeek-R1. Because why should we wait for official support when we can have tool calling TODAY?
 
 ## Features 🌟
 
