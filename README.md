@@ -1,6 +1,8 @@
 # Tool Ahead Of Time: Because Why Wait?
 Ever found yourself staring at a shiny new LLM through Langchain's window, but can't use tool calling because it's "not supported yet"? 
+
 *Sad react-agent noises* 😢
+
 Well, hold my JSON parser, because this repo says "NOT TODAY!" 🦾
 
 ## What is this sorcery? 🧙‍♂️
