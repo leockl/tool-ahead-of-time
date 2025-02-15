@@ -15,7 +15,7 @@ This repo showcases with DeepSeek-R1. Because why should we wait for official La
 
 ## Features 🌟
 
-- Tool calling support for any model available through Langchain's ChatOpenAI library (and by extension, any model available through OpenAI's library)
+- Tool calling support for models available through Langchain's ChatOpenAI library (and by extension, models available through OpenAI's library)
 - Handles conversation history like a pro
 - More robust than a caffeinated developer at 3 AM
 - Zero waiting for official support required
