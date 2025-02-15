@@ -11,14 +11,14 @@ This is a Python package that enables tool calling for any model available throu
 
 Yes, you read that right. We're living in the age of AI and things move fast 🏎️💨
 
-This repo showcases with DeepSeek-R1. Because why should we wait for official LangChain and LangGraph support when we can have tool calling TODAY?
+This repo showcases with DeepSeek-R1 which isn't currently supported with tool calling by LangChain and LangGraph. Because why should we wait for official support when we can have tool calling TODAY?
 
 ## Features 🌟
 
-- Tool calling support for models available through Langchain's ChatOpenAI library (and by extension, models available through OpenAI's library)
-- Handles conversation history like a pro
-- More robust than a caffeinated developer at 3 AM
-- Zero waiting for official support required
+- Tool calling support for models available through Langchain's ChatOpenAI library (and by extension, models available through OpenAI's library).
+- Handles conversation history like a pro.
+- More robust than a caffeinated developer at 3 AM.
+- Zero waiting for official support required.
 
 ## Quick Start 🚀
 
