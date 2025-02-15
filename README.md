@@ -5,7 +5,7 @@ Ever found yourself staring at a shiny new LLM through Langchain's window, but c
 
 Well, hold my JSON parser, because this repo says "NOT TODAY!" 🦾
 
-Because sometimes, when you want something done right, you have to do it right now before the official support arrives.
+Because sometimes, when you want something done right, you have to do it ~~right now~~ before the official support arrives.
 
 ## What is this sorcery? 🧙‍♂️
 
