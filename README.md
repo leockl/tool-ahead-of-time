@@ -26,7 +26,7 @@ This repo showcases with DeepSeek-R1, which isn't currently supported yet with t
 
 ## Contributions 🤝
 
-Feel free to contribute! Whether it's adding features, fixing bugs, adding comments in the code or suggestions to improve this repo, all are welcomed 😄
+Feel free to contribute! Whether it's adding features, fixing bugs, adding comments in the code or any suggestions to improve this repo, all are welcomed 😄
 
 ## Disclaimer ⚠️
 
