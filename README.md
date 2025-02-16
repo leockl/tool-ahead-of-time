@@ -11,7 +11,7 @@ This is a Python package that enables tool calling for any model available throu
 
 Yes, you read that right. We're living in the age of AI and things move fast 🏎️💨
 
-This repo showcases with DeepSeek-R1, which isn't currently supported with tool calling by LangChain and LangGraph.
+This repo showcases with DeepSeek-R1, which isn't currently supported yet with tool calling by LangChain and LangGraph (as of 16th Feb 2025).
 
 ## Features 🌟
 
