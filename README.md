@@ -7,7 +7,7 @@ Well, hold my JSON parser, because this repo says "NOT TODAY!" 🦾
 
 ## What is this sorcery? 🧙‍♂️
 
-This is a Python package that enables tool calling for any model available through Langchain's ChatOpenAI library (and by extension, any model available through the base OpenAI's library), even before LangChain and LangGraph officially supports it! 
+This is a Python package that enables tool calling for any model available on Langchain's ChatOpenAI library (and by extension, any model available on the base OpenAI's library), even before LangChain and LangGraph officially supports it! 
 
 Yes, you read that right. We're living in the age of AI and things move fast 🏎️💨
 
