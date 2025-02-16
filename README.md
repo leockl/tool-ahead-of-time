@@ -22,7 +22,11 @@ This repo showcases with DeepSeek-R1, which isn't currently supported yet with t
 
 ## Quick Start 🚀
 
+The repo essentially works by reformatting the output reponse of the model into a JSON parser and passing this on to the tool.
 
+Follow the tutorial in the "tool-ahead-of-time-tutorial" file in this repo for an easy and practical guide.
+
+I have decided not to make this package available via pip install because there may be some minimal code customization required depending on the model you are using available through Langchain's ChatOpenAI library.
 
 ## Contributions 🤝
 
