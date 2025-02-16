@@ -7,7 +7,7 @@ Well, hold my JSON parser, because this repo says "NOT TODAY!" 🦾
 
 ## What is this sorcery? 🧙‍♂️
 
-This is a Python package that enables tool calling for any model available on Langchain's ChatOpenAI library (and by extension, any model available on the base OpenAI's library), even before LangChain and LangGraph officially supports it! 
+This is a Python package that enables tool calling for any model available through Langchain's ChatOpenAI library (and by extension, any model available through OpenAI's library), even before LangChain and LangGraph officially supports it! 
 
 Yes, you read that right. We're living in the age of AI and things move fast 🏎️💨
 
@@ -15,7 +15,7 @@ This repo showcases with DeepSeek-R1, which isn't currently supported with tool 
 
 ## Features 🌟
 
-- Tool calling support for OpenAI and non-OpenAI models available through Langchain's ChatOpenAI library (and by extension, OpenAI and non-OpenAI models available through OpenAI's library).
+- Tool calling support for OpenAI and non-OpenAI models available on Langchain's ChatOpenAI library (and by extension, OpenAI and non-OpenAI models available on the base OpenAI's library).
 - Handles conversation history like a pro.
 - More robust than a caffeinated developer at 3 AM. ☕
 - Zero waiting for official support required.
