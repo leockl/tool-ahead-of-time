@@ -22,7 +22,7 @@ This repo showcases with DeepSeek-R1 671B, which isn't currently supported with 
 
 ## Quick Start 🚀
 
-The repo essentially works by reformatting the output reponse of the model into a JSON parser and passing this on to a tool.
+The repo essentially works by reformatting the output reponse of the model into a JSON parser and passing this on to the tools.
 
 Follow the tutorial in the "tool-ahead-of-time-tutorial.ipynb" file in this repo for an easy and practical guide.
 
