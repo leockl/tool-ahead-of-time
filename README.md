@@ -18,7 +18,7 @@ This repo showcases an example with DeepSeek-R1 671B, which isn't currently supp
 ## Features 🌟
 
 - Tool calling support for OpenAI and non-OpenAI models available on Langchain's ChatOpenAI library (and by extension, OpenAI and non-OpenAI models available on the base OpenAI's library).
-- This package follows a similar method to LangChain's and LangGraph's method for tool calling.
+- This package follows a similar method to LangChain's and LangGraph's method for tool calling, so makes it easy for you to read the syntax. 😊
 - More robust than a caffeinated developer at 3 AM. ☕
 - Zero waiting for official support required.
 
