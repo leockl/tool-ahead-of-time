@@ -1,4 +1,4 @@
-# Tool Ahead Of Time: Because Why Wait? 🕒
+# Tool Ahead of Time (TAoT): Because Why Wait? 🕒
 Ever found yourself staring at a shiny new LLM through Langchain's window, but can't use tool calling because it's "not supported yet"? 
 
 *Sad react-agent noises* 😢
@@ -11,22 +11,20 @@ This is a Python package that enables tool calling for any model available throu
 
 Yes, you read that right. We're living in the age of AI and things move fast 🏎️💨
 
-This repo showcases with DeepSeek-R1 671B, which isn't currently supported with tool calling by LangChain and LangGraph (as of 16th Feb 2025).
+It essentially works by reformatting the output response of the model into a JSON parser and passing this on to the relevant tools.
+
+This repo showcases an example with DeepSeek-R1 671B, which isn't currently supported with tool calling by LangChain and LangGraph (as of 16th Feb 2025).
 
 ## Features 🌟
 
 - Tool calling support for OpenAI and non-OpenAI models available on Langchain's ChatOpenAI library (and by extension, OpenAI and non-OpenAI models available on the base OpenAI's library).
-- Handles conversation history like a pro.
+- This package follows a similar method to LangChain's and LangGraph's method for tool calling.
 - More robust than a caffeinated developer at 3 AM. ☕
 - Zero waiting for official support required.
 
 ## Quick Start 🚀
 
-The repo essentially works by reformatting the output response of the model into a JSON parser and passing this on to the relevant tools.
-
-Follow the tutorial in the "tool-ahead-of-time-tutorial.ipynb" file in this repo for an easy and practical guide.
-
-For now, I have decided not to make this package available via pip install because there may be some minimal code customization required depending on the model you are using available through Langchain's ChatOpenAI library.
+Follow the tutorial in the "taot_tutorial.ipynb" file (under the "tutorial" folder) in this repo for an easy and practical guide.
 
 ## Contributions 🤝
 
