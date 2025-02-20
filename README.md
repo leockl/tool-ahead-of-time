@@ -24,7 +24,7 @@ This repo showcases an example with DeepSeek-R1 671B, which isn't currently supp
 
 ## Quick Start 🚀
 
-Follow the tutorial in the "taot_tutorial.ipynb" file (under the "tutorial" folder) in this repo for an easy and practical guide.
+Follow the tutorial in the "taot_tutorial.ipynb" file (under the "tutorial" folder) in this repo for a fast and easy guide.
 
 ## Contributions 🤝
 
