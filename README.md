@@ -28,7 +28,7 @@ Follow the notebook tutorial in the "taot_tutorial.ipynb" file (under the "tutor
 
 UPDATE 20th Feb 2025:
 - Package now available on PyPI! Just "pip install taot" and you're ready to go.
-- Completely redesigned to follow LangChain's and LangGraph's intuitive tool calling patterns.
+- Completely redesigned to follow LangChain's and LangGraph's intuitive tool calling methods.
 - Natural language responses when tool calling is performed.
 
 ## Contributions 🤝
