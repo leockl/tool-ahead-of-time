@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "taot"
+version = "0.1.3"
+authors = [
+  { name="Leo Chow", email="leo.chow11@gmail.com" },
+]
+description = "Tool Ahead of Time (TAoT)"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/leockl/tool-ahead-of-time"
+"Bug Tracker" = "https://github.com/leockl/tool-ahead-of-time/issues"
