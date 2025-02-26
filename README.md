@@ -1,7 +1,7 @@
 # Tool-Ahead-of-Time (TAoT): Because Why Wait? 🕒
 Ever found yourself staring at a shiny new LLM through LangChain's window, but can't use tool calling because it's "not supported yet"? 
 
-*Sad react-agent noises* 😢
+*Sad agent noises* 😢
 
 Well, hold my JSON parser, because this repo says "NOT TODAY!" 🦾
 
@@ -28,7 +28,7 @@ Follow the notebook tutorial in the "taot_tutorial.ipynb" file (under the "tutor
 
 UPDATE 20th Feb 2025:
 - Package now available on PyPI! Just "pip install taot" and you're ready to go.
-- Completely redesigned to follow LangChain's and LangGraph's intuitive tool calling methods.
+- Completely redesigned to follow LangChain's and LangGraph's intuitive `create_react_agent` tool calling methods.
 - Produces natural language responses when tool calling is performed.
 
 ## Contributions 🤝
