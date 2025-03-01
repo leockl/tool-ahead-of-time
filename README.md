@@ -26,7 +26,7 @@ This repo showcases an example with DeepSeek-R1 671B, which isn't currently supp
 
 Follow the notebook tutorial in the "taot_tutorial.ipynb" file (under the "tutorial" folder) in this repo for a fast and practical guide.
 
-*CHANGE LOG:*
+**CHANGE LOG:**
 
 20th Feb 2025:
 - Package now available on PyPI! Just "pip install taot" and you're ready to go.
@@ -34,7 +34,7 @@ Follow the notebook tutorial in the "taot_tutorial.ipynb" file (under the "tutor
 - Produces natural language responses when tool calling is performed.
 
 1st Mar 2025:
-- Package now available in TypeScript on npm! Just "npm install taot-ts" and you're ready to go.
+- Package now available in TypeScript on npm (https://github.com/leockl/tool-ahead-of-time-ts)! Just "npm install taot-ts" and you're ready to go.
 
 ## Contributions 🤝
 
