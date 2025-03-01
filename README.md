@@ -38,6 +38,8 @@ Follow the notebook tutorial in the "taot_tutorial.ipynb" file (under the "tutor
 1st Mar 2025:
 - Package now available in TypeScript on npm! Just "npm install taot-ts" and you're ready to go. (https://github.com/leockl/tool-ahead-of-time-ts)
 
+**----------------**
+
 ## Contributions 🤝
 
 Feel free to contribute! Whether it's adding features, fixing bugs, adding comments in the code or any suggestions to improve this repo, all are welcomed 😄
