@@ -29,12 +29,12 @@ Follow the notebook tutorial in the "taot_tutorial.ipynb" file (under the "tutor
 ## Change Log 📖
 
 20th Feb 2025:
-- Package now available on PyPI! Just "pip install taot" and you're ready to go. (v0.1.3)
+- Package now available on PyPI! Just "pip install taot" and you're ready to go.
 - Completely redesigned to follow LangChain's and LangGraph's intuitive `create_react_agent` tool calling methods.
 - Produces natural language responses when tool calling is performed.
 
 1st Mar 2025:
-- Package now available in TypeScript on npm! Just "npm install taot-ts" and you're ready to go. (v0.1.4) (https://github.com/leockl/tool-ahead-of-time-ts)
+- Package now available in TypeScript on npm! Just "npm install taot-ts" and you're ready to go. (https://github.com/leockl/tool-ahead-of-time-ts)
 
 ## Contributions 🤝
 
