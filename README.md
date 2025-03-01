@@ -26,7 +26,9 @@ This repo showcases an example with DeepSeek-R1 671B, which isn't currently supp
 
 Follow the notebook tutorial in the "taot_tutorial.ipynb" file (under the "tutorial" folder) in this repo for a fast and practical guide.
 
-**--CHANGE LOG:--**
+**-----------**
+
+**CHANGE LOG:**
 
 20th Feb 2025:
 - Package now available on PyPI! Just "pip install taot" and you're ready to go.
