@@ -13,7 +13,7 @@ Yes, you read that right. We're living in the age of AI and things move fast ğŸ
 
 It essentially works by reformatting the output response of the model into a JSON parser and passing this on to the relevant tools.
 
-This repo showcases an example with DeepSeek-R1 671B (hosted on the OpenRouter platform), which isn't currently supported with tool calling by LangChain and LangGraph (as of 16th Feb 2025).
+This repo showcases an example with DeepSeek-R1 671B, which isn't currently supported with tool calling by LangChain and LangGraph (as of 16th Feb 2025).
 
 ## Features ğŸŒŸ
 
