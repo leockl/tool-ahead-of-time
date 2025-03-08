@@ -27,8 +27,8 @@ This repo showcases an example with DeepSeek-R1 671B, which isn't currently supp
 ## Quick Start 🚀
 
 Follow the notebook tutorials in the "tutorial" folder in this repo for a fast and practical guide:
-- "taot_tutorial_ChatOpenAI.ipynb" for Langchain's ChatOpenAI library.
-- "taot_tutorial_AzureChatOpenAI.ipynb" for Langchain's AzureAIChatCompletionsModel library.
+- "taot_tutorial_ChatOpenAI.ipynb" file for Langchain's ChatOpenAI library.
+- "taot_tutorial_AzureChatOpenAI.ipynb" file for Langchain's AzureAIChatCompletionsModel library.
 
 ## Change Log 📖
 
