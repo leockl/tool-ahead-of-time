@@ -41,7 +41,7 @@ Follow the notebook tutorials in the "tutorial" folder in this repo for a fast a
 - Package now available in TypeScript on npm! Just "npm install taot-ts" and you're ready to go. (https://github.com/leockl/tool-ahead-of-time-ts)
 
 8th Mar 2025:
-- Updated package to include implementation on Microsoft Azure via Langchain's AzureAIChatCompletionsModel library.
+- Updated package to include support for Microsoft Azure via Langchain's AzureAIChatCompletionsModel library.
 
 ## Contributions 🤝
 
