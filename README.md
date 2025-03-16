@@ -41,7 +41,11 @@ Follow the notebook tutorials in the "tutorial" folder in this repo for a fast a
 - Package now available in TypeScript on npm! Just "npm install taot-ts" and you're ready to go. (https://github.com/leockl/tool-ahead-of-time-ts)
 
 8th Mar 2025:
-- Updated package to include implementation support for Microsoft Azure via Langchain's AzureAIChatCompletionsModel library.
+- Updated repo to include implementation support for Microsoft Azure via Langchain's AzureAIChatCompletionsModel library.
+
+16th Mar 2025:
+- Updated repo to include example tutorial for tool calling support for QwQ-32B using Langchain's ChatOpenAI library (hosted on OpenRouter). While doing this, I noticed OpenRouter's API for QwQ-32B is unstable and returning empty responses (likely because QwQ-32B is a new model added on OpenRouter only about a week ago). Due to this, I have updated the taot package to keep looping until a non-empty response is returned. If you have previously downloaded the package, please update the package via `pip install --upgrade taot`.
+- Checked out OpenAI Agents SDK framework for tool calling support for non-OpenAI providers/models (https://openai.github.io/openai-agents-python/models/) and they don't support tool calling for DeepSeek-R1 (or models available through OpenRouter) yet (as of 16th Mar 2025), so there you go.
 
 ## Contributions 🤝
 
