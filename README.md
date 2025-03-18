@@ -27,9 +27,9 @@ This repo showcases an example with DeepSeek-R1 671B, which isn't currently supp
 ## Quick Start 🚀
 
 Follow the notebook tutorials in the "tutorial" folder in this repo for a fast and practical guide:
-- "taot_tutorial_ChatOpenAI.ipynb" file for Langchain's ChatOpenAI library.
-- "taot_tutorial_AzureAIChatCompletionsModel.ipynb" file for Langchain's AzureAIChatCompletionsModel library.
-- "taot_tutorial_ChatOpenAI_QwQ32B.ipynb" file for example tutorial for tool calling support for QwQ-32B using Langchain's ChatOpenAI library (hosted on OpenRouter).
+- "taot_tutorial_ChatOpenAI.ipynb" file for example tutorial on Langchain's ChatOpenAI library (using DeepSeek-R1 on OpenRouter).
+- "taot_tutorial_AzureAIChatCompletionsModel.ipynb" file for example tutorial on Langchain's AzureAIChatCompletionsModel library (using DeepSeek-R1 on Microsoft Azure).
+- "taot_tutorial_ChatOpenAI_QwQ32B.ipynb" file for example tutorial on Langchain's ChatOpenAI library (using QwQ-32B on OpenRouter).
 
 ## Change Log 📖
 
