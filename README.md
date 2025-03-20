@@ -31,7 +31,7 @@ Follow the notebook tutorials in the "tutorial" folder in this repo for a fast a
 - "taot_tutorial_AzureAIChatCompletionsModel.ipynb" file for example notebook tutorial on Langchain's AzureAIChatCompletionsModel library (using DeepSeek-R1 on Microsoft Azure).
 - "taot_tutorial_ChatOpenAI_QwQ32B.ipynb" file for example notebook tutorial on Langchain's ChatOpenAI library (using QwQ-32B on OpenRouter).
 
-## Change Log 📖
+## Changelog 📖
 
 20th Feb 2025:
 - Package now available on PyPI! Just "pip install taot" and you're ready to go.
