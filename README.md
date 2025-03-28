@@ -7,7 +7,7 @@ Well, hold my JSON parser, because this repo says "NOT TODAY!" 🦾
 
 ## What is this sorcery? 🧙‍♂️
 
-This is a Python package that enables tool calling for any model available through Langchain's ChatOpenAI library (and by extension, any model available through OpenAI's library) and Langchain's AzureAIChatCompletionsModel library, even before LangChain and LangGraph officially supports it! 
+This is a Python package that enables tool calling for any model available through Langchain's ChatOpenAI library (and by extension, any model available through OpenAI's library), any model available through Langchain's AzureAIChatCompletionsModel library and any model available through Langchain's ChatBedrockConverse library, even before LangChain and LangGraph officially supports it! 
 
 Yes, you read that right. We're living in the age of AI and things move fast 🏎️💨
 
@@ -20,6 +20,7 @@ This repo showcases an example with DeepSeek-R1 671B, which isn't currently supp
 - Tool calling support for OpenAI and non-OpenAI models available on:
   - LangChain's ChatOpenAI library (and by extension, OpenAI and non-OpenAI models available on the base OpenAI's library).
   - LangChain's AzureAIChatCompletionsModel library.
+  - Langchain's ChatBedrockConverse library.
 - This package follows a similar method to LangChain's and LangGraph's `create_react_agent` method for tool calling, so makes it easy for you to read the syntax. 😊
 - Zero waiting for official support required.
 - More robust than a caffeinated developer at 3 AM. ☕
@@ -30,6 +31,7 @@ Follow the notebook tutorials in the "tutorial" folder in this repo for a fast a
 - "taot_tutorial_ChatOpenAI.ipynb" file for example notebook tutorial on Langchain's ChatOpenAI library (using DeepSeek-R1 on OpenRouter).
 - "taot_tutorial_AzureAIChatCompletionsModel.ipynb" file for example notebook tutorial on Langchain's AzureAIChatCompletionsModel library (using DeepSeek-R1 on Microsoft Azure).
 - "taot_tutorial_ChatOpenAI_QwQ32B.ipynb" file for example notebook tutorial on Langchain's ChatOpenAI library (using QwQ-32B on OpenRouter).
+- "taot_tutorial_ChatBedrockConverse.ipynb" file for example notebook tutorial on Langchain's ChatBedrockConverse library (using DeepSeek-R1 on Amazon Bedrock).
 
 ## Changelog 📖
 
@@ -42,11 +44,14 @@ Follow the notebook tutorials in the "tutorial" folder in this repo for a fast a
 - Package now available in TypeScript on npm! Just "npm install taot-ts" and you're ready to go. (https://github.com/leockl/tool-ahead-of-time-ts)
 
 8th Mar 2025:
-- Updated repo to include implementation support for Microsoft Azure via Langchain's AzureAIChatCompletionsModel library.
+- Updated repo to include implementation support for Microsoft Azure via LangChain's AzureAIChatCompletionsModel library.
 
 16th Mar 2025:
 - Updated repo to include example tutorial for tool calling support for QwQ-32B using Langchain's ChatOpenAI library (hosted on OpenRouter). See "taot_tutorial_ChatOpenAI_QwQ32B.ipynb" file under the "tutorial" folder in this repo. While doing this, I noticed OpenRouter's API for QwQ-32B is unstable and returning empty responses (likely because QwQ-32B is a new model added on OpenRouter only about a week ago). Due to this, I have updated the taot package to keep looping until a non-empty response is returned. If you have previously downloaded the package, please update the package via `pip install --upgrade taot`.
 - Checked out OpenAI Agents SDK framework for tool calling support for non-OpenAI providers/models (https://openai.github.io/openai-agents-python/models/) and they don't support tool calling for DeepSeek-R1 (or models available through OpenRouter) yet (as of 16th Mar 2025), so there you go! 😉
+
+28th Mar 2025:
+- Updated repo to include implementation support for Amazon Bedrock via LangChain's ChatBedrockConverse library.
 
 ## Contributions 🤝
 
