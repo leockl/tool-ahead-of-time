@@ -28,10 +28,10 @@ This repo showcases an example with DeepSeek-R1 671B, which isn't currently supp
 ## Quick Start 🚀
 
 Follow the notebook tutorials in the "tutorial" folder in this repo for a fast and practical guide:
-- "taot_tutorial_ChatOpenAI.ipynb" file for example notebook tutorial on Langchain's ChatOpenAI library (using DeepSeek-R1 on OpenRouter).
-- "taot_tutorial_AzureAIChatCompletionsModel.ipynb" file for example notebook tutorial on Langchain's AzureAIChatCompletionsModel library (using DeepSeek-R1 on Microsoft Azure).
-- "taot_tutorial_ChatOpenAI_QwQ32B.ipynb" file for example notebook tutorial on Langchain's ChatOpenAI library (using QwQ-32B on OpenRouter).
-- "taot_tutorial_ChatBedrockConverse.ipynb" file for example notebook tutorial on Langchain's ChatBedrockConverse library (using DeepSeek-R1 on Amazon Bedrock).
+- "taot_tutorial_ChatOpenAI.ipynb" file for example notebook tutorial on LangChain's ChatOpenAI library (using DeepSeek-R1 on OpenRouter).
+- "taot_tutorial_AzureAIChatCompletionsModel.ipynb" file for example notebook tutorial on LangChain's AzureAIChatCompletionsModel library (using DeepSeek-R1 on Microsoft Azure).
+- "taot_tutorial_ChatOpenAI_QwQ32B.ipynb" file for example notebook tutorial on LangChain's ChatOpenAI library (using QwQ-32B on OpenRouter).
+- "taot_tutorial_ChatBedrockConverse.ipynb" file for example notebook tutorial on LangChain's ChatBedrockConverse library (using DeepSeek-R1 on Amazon Bedrock).
 
 ## Changelog 📖
 
