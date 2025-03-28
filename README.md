@@ -20,7 +20,7 @@ This repo showcases an example with DeepSeek-R1 671B, which isn't currently supp
 - Tool calling support for OpenAI and non-OpenAI models available on:
   - LangChain's ChatOpenAI library (and by extension, OpenAI and non-OpenAI models available on the base OpenAI's library).
   - LangChain's AzureAIChatCompletionsModel library.
-  - Langchain's ChatBedrockConverse library.
+  - LangChain's ChatBedrockConverse library.
 - This package follows a similar method to LangChain's and LangGraph's `create_react_agent` method for tool calling, so makes it easy for you to read the syntax. 😊
 - Zero waiting for official support required.
 - More robust than a caffeinated developer at 3 AM. ☕
