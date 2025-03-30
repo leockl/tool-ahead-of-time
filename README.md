@@ -67,4 +67,5 @@ MIT License - Because sharing is caring, and we care about you having tool calli
 
 ---
 
-Made with ❤️ and a healthy dose of impatience. Please give my GitHub repo a ⭐ if this was helpful. Thank you!
+Made with ❤️ and a healthy dose of impatience. 
+Please give my GitHub repo a ⭐ if this was helpful. Thank you!
