@@ -56,8 +56,8 @@ Follow the notebook tutorials in the "tutorial" folder in this repo for a fast a
 - Updated repo to include implementation support for Amazon Bedrock via LangChain's ChatBedrockConverse class.
 
 6th April 2025:
-- Special update: Updated repo to include implementation support for using LangChain's MCP Adapters library with DeepSeek-R1 671B (via LangChain's ChatOpenAI class on OpenRouter).
-- Special update: Updated repo to include implementation support for using LangGraph's Bigtool library with DeepSeek-R1 671B (via LangChain's ChatOpenAI class on OpenRouter).
+- Special Update: Updated repo to include implementation support for using LangChain's MCP Adapters library with DeepSeek-R1 671B (via LangChain's ChatOpenAI class on OpenRouter).
+- Special Update: Updated repo to include implementation support for using LangGraph's Bigtool library with DeepSeek-R1 671B (via LangChain's ChatOpenAI class on OpenRouter).
 
 ## Contributions 🤝
 
