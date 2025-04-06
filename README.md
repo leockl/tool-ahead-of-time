@@ -28,10 +28,12 @@ This repo showcases an example with DeepSeek-R1 671B, which isn't currently supp
 ## Quick Start 🚀
 
 Follow the notebook tutorials in the "tutorial" folder in this repo for a fast and practical guide:
-- "taot_tutorial_ChatOpenAI.ipynb" file for example notebook tutorial on LangChain's ChatOpenAI class (using DeepSeek-R1 on OpenRouter).
-- "taot_tutorial_AzureAIChatCompletionsModel.ipynb" file for example notebook tutorial on LangChain's AzureAIChatCompletionsModel class (using DeepSeek-R1 on Microsoft Azure).
+- "taot_tutorial_ChatOpenAI.ipynb" file for example notebook tutorial on LangChain's ChatOpenAI class (using DeepSeek-R1 671B on OpenRouter).
+- "taot_tutorial_AzureAIChatCompletionsModel.ipynb" file for example notebook tutorial on LangChain's AzureAIChatCompletionsModel class (using DeepSeek-R1 671B on Microsoft Azure).
 - "taot_tutorial_ChatOpenAI_QwQ32B.ipynb" file for example notebook tutorial on LangChain's ChatOpenAI class (using QwQ-32B on OpenRouter).
-- "taot_tutorial_ChatBedrockConverse.ipynb" file for example notebook tutorial on LangChain's ChatBedrockConverse class (using DeepSeek-R1 on Amazon Bedrock).
+- "taot_tutorial_ChatBedrockConverse.ipynb" file for example notebook tutorial on LangChain's ChatBedrockConverse class (using DeepSeek-R1 671B on Amazon Bedrock).
+- "tutorial_mcp_deepseek_r1.ipynb" file for example notebook tutorial on using LangChain's MCP Adapters library with DeepSeek-R1 671B (via LangChain's ChatOpenAI class on OpenRouter).
+- "tutorial_bigtool_deepseek_r1.ipynb" file for example notebook tutorial on using LangGraph's Bigtool library with DeepSeek-R1 671B (via LangChain's ChatOpenAI class on OpenRouter).
 
 ## Changelog 📖
 
@@ -52,6 +54,10 @@ Follow the notebook tutorials in the "tutorial" folder in this repo for a fast a
 
 28th Mar 2025:
 - Updated repo to include implementation support for Amazon Bedrock via LangChain's ChatBedrockConverse class.
+
+6th April 2025:
+- Special update: Updated repo to include implementation support for using LangChain's MCP Adapters library with DeepSeek-R1 671B (via LangChain's ChatOpenAI class on OpenRouter).
+- Special update: Updated repo to include implementation support for using LangGraph's Bigtool library with DeepSeek-R1 671B (via LangChain's ChatOpenAI class on OpenRouter).
 
 ## Contributions 🤝
 
