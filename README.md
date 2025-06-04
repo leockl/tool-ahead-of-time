@@ -35,6 +35,7 @@ Follow the notebook tutorials in the "tutorial" folder in this repo for a fast a
 - "tutorial_McpAdapters_DeepSeek_R1.ipynb" file for example notebook tutorial on using LangChain's MCP Adapters library with DeepSeek-R1 671B (via LangChain's ChatOpenAI class on OpenRouter).
 - "tutorial_Bigtool_DeepSeek_R1.ipynb" file for example notebook tutorial on using LangGraph's Bigtool library with DeepSeek-R1 671B (via LangChain's ChatOpenAI class on OpenRouter).
 - "taot_tutorial_ChatOpenAI_Qwen3.ipynb" file for example notebook tutorial on LangChain's ChatOpenAI class (using Qwen3 models on OpenRouter).
+- "taot_tutorial_ChatOpenAI_DeepSeek_R1_0528.ipynb" file for example notebook tutorial on LangChain's ChatOpenAI class (using DeepSeek-R1-0528 685B on OpenRouter).
 
 ## Changelog 📖
 
@@ -62,6 +63,9 @@ Follow the notebook tutorials in the "tutorial" folder in this repo for a fast a
 
 7th May 2025:
 - Updated repo to include example tutorial for tool calling support for all the Qwen3 models using Langchain's ChatOpenAI class (hosted on OpenRouter), with the exception of the Qwen3 0.6B model. My observation is that the Qwen 0.6B model is just not "smart" or performant enough to understand when tool use is required.
+
+4th Jun 2025:
+- Updated repo to include example tutorial for tool calling support for DeepSeek-R1-0528 685B model using Langchain's ChatOpenAI class (hosted on OpenRouter).
 
 ## Contributions 🤝
 
